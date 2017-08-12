@@ -1,0 +1,33 @@
+2017-07-26 16:50:12 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - *****starting test : verifyLoginWithInvalidCredentials
+2017-07-26 16:50:13 INFO  LoginPage:36 - Clicked on email : 
+2017-07-26 16:50:13 INFO  LoginPage:38 - Clicked on password : 
+2017-07-26 16:50:14 INFO  LoginPage:40 - Clicked on sign in : Sign in
+2017-07-26 16:50:14 INFO  LoginPage:44 - Error message is : Invalid Login. Try again.
+2017-07-26 16:50:14 INFO  TC001_VerifyLoginWithInvalidCredentials:33 - *****Finished test : verifyLoginWithInvalidCredentials
+2017-07-26 16:51:41 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - *****starting test : verifyLoginWithInvalidCredentials
+2017-07-26 16:51:41 INFO  LoginPage:36 - Clicked on email : [[FirefoxDriver: firefox on ANY (51dba9b2-9124-4832-b416-dca2a9899b18)] -> xpath: //input[@id='login_email']]
+2017-07-26 16:51:44 INFO  LoginPage:38 - Clicked on password : [[FirefoxDriver: firefox on ANY (51dba9b2-9124-4832-b416-dca2a9899b18)] -> xpath: //input[@id='login_password']]
+2017-07-26 16:51:45 INFO  LoginPage:40 - Clicked on sign in : Sign in
+2017-07-26 16:51:45 INFO  LoginPage:44 - Error message is : Invalid Login. Try again.
+2017-07-26 16:51:45 INFO  TC001_VerifyLoginWithInvalidCredentials:33 - *****Finished test : verifyLoginWithInvalidCredentials
+2017-08-08 16:06:24 INFO  LoginPage:36 - Clicked on email : [[FirefoxDriver: firefox on ANY (3739a920-74da-44d4-9d2b-e35d881efdfe)] -> xpath: //input[@id='login_email']]
+2017-08-08 16:06:25 INFO  LoginPage:38 - Clicked on password : [[FirefoxDriver: firefox on ANY (3739a920-74da-44d4-9d2b-e35d881efdfe)] -> xpath: //input[@id='login_password']]
+2017-08-08 16:06:26 INFO  LoginPage:40 - Clicked on sign in : Sign in
+2017-08-08 16:39:15 INFO  LoginPage:36 - Clicked on email : [[FirefoxDriver: firefox on ANY (c6e6b9aa-112e-4914-bf47-eda88ac2131c)] -> xpath: //input[@id='login_email']]
+2017-08-08 16:39:16 INFO  LoginPage:38 - Clicked on password : [[FirefoxDriver: firefox on ANY (c6e6b9aa-112e-4914-bf47-eda88ac2131c)] -> xpath: //input[@id='login_password']]
+2017-08-08 16:39:16 INFO  LoginPage:40 - Clicked on sign in : Sign in
+2017-08-09 11:19:42 INFO  LoginPage:36 - Clicked on email : [[FirefoxDriver: firefox on ANY (2060ddf5-e1b0-4b8f-a057-778898a5e7e8)] -> xpath: //input[@id='login_email']]
+2017-08-09 11:19:43 INFO  LoginPage:38 - Clicked on password : [[FirefoxDriver: firefox on ANY (2060ddf5-e1b0-4b8f-a057-778898a5e7e8)] -> xpath: //input[@id='login_password']]
+2017-08-09 11:19:44 INFO  LoginPage:40 - Clicked on sign in : Sign in
+2017-08-09 11:23:40 INFO  LoginPage:36 - Clicked on email : [[FirefoxDriver: firefox on ANY (4e5c3eb0-ef5c-4fdd-8be4-50b3d175d24f)] -> xpath: //input[@id='login_email']]
+2017-08-09 11:23:41 INFO  LoginPage:38 - Clicked on password : [[FirefoxDriver: firefox on ANY (4e5c3eb0-ef5c-4fdd-8be4-50b3d175d24f)] -> xpath: //input[@id='login_password']]
+2017-08-09 11:23:42 INFO  LoginPage:40 - Clicked on sign in : Sign in
+2017-08-10 13:01:52 INFO  LoginPage:36 - Clicked on email : [[FirefoxDriver: firefox on ANY (4e4ece1c-180d-4046-a149-41f40a932dea)] -> xpath: //input[@id='login_email']]
+2017-08-10 13:01:54 INFO  LoginPage:38 - Clicked on password : [[FirefoxDriver: firefox on ANY (4e4ece1c-180d-4046-a149-41f40a932dea)] -> xpath: //input[@id='login_password']]
+2017-08-10 13:01:55 INFO  LoginPage:40 - Clicked on sign in : Sign in
+2017-08-10 13:02:34 INFO  LoginPage:36 - Clicked on email : [[FirefoxDriver: firefox on ANY (7ba494cb-aacc-4e17-8482-5c11c62567cf)] -> xpath: //input[@id='login_email']]
+2017-08-10 13:02:35 INFO  LoginPage:38 - Clicked on password : [[FirefoxDriver: firefox on ANY (7ba494cb-aacc-4e17-8482-5c11c62567cf)] -> xpath: //input[@id='login_password']]
+2017-08-10 13:02:35 INFO  LoginPage:40 - Clicked on sign in : Sign in
+2017-08-10 13:04:49 INFO  LoginPage:36 - Clicked on email : [[FirefoxDriver: firefox on ANY (0045ed9a-3aac-458e-9803-658eed7d0552)] -> xpath: //input[@id='login_email']]
+2017-08-10 13:04:54 INFO  LoginPage:38 - Clicked on password : [[FirefoxDriver: firefox on ANY (0045ed9a-3aac-458e-9803-658eed7d0552)] -> xpath: //input[@id='login_password']]
+2017-08-10 13:04:54 INFO  LoginPage:40 - Clicked on sign in : Sign in

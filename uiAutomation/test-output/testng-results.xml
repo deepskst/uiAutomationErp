@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27701" started-at="2017-08-10T07:34:34Z" finished-at="2017-08-10T07:35:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27701" started-at="2017-08-10T07:34:34Z" finished-at="2017-08-10T07:35:01Z">
+      <class name="com.tjs.automation.uiAutomation.projects.CreateNewProject">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tjs.automation.uiAutomation.projects.CreateNewProject@5f2108b5]" name="setUp" is-config="true" duration-ms="15060" started-at="2017-08-10T13:04:34Z" finished-at="2017-08-10T13:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="newProject()[pri:0, instance:com.tjs.automation.uiAutomation.projects.CreateNewProject@5f2108b5]" name="newProject" duration-ms="12623" started-at="2017-08-10T13:04:49Z" finished-at="2017-08-10T13:05:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newProject -->
+        <test-method status="PASS" signature="windUp()[pri:0, instance:com.tjs.automation.uiAutomation.projects.CreateNewProject@5f2108b5]" name="windUp" is-config="true" duration-ms="1" started-at="2017-08-10T13:05:01Z" finished-at="2017-08-10T13:05:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windUp -->
+      </class> <!-- com.tjs.automation.uiAutomation.projects.CreateNewProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
