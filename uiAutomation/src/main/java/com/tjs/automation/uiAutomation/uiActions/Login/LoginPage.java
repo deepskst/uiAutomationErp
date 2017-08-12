@@ -34,6 +34,7 @@ public class LoginPage extends Navigation_CommonMenus {
 	
 	public void login(String email, String passwordStr) {
 		
+		// user login
 		emailAddress.sendKeys(email);
 		log.info("Clicked on email : " + emailAddress.toString());
 		password.sendKeys(passwordStr);
