@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Login">
+	<test name="Login ERP">
+		<classes>
+			<class name="com.tjs.automation.uiAutomation.login.TC001_VerifyLoginWithInvalidCredentials"></class>
+			<class name="com.tjs.automation.uiAutomation.login.TC002_VerifyLoginWithValidCredentials"></class>
+			<class name="/uiAutomation/src/test/java/com/tjs/automation/uiAutomation/login/TC_003_DummyTest.java"></class>
+		</classes>
+	</test>
+</suite>

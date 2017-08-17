@@ -31,3 +31,81 @@
 2017-08-10 13:04:49 INFO  LoginPage:36 - Clicked on email : [[FirefoxDriver: firefox on ANY (0045ed9a-3aac-458e-9803-658eed7d0552)] -> xpath: //input[@id='login_email']]
 2017-08-10 13:04:54 INFO  LoginPage:38 - Clicked on password : [[FirefoxDriver: firefox on ANY (0045ed9a-3aac-458e-9803-658eed7d0552)] -> xpath: //input[@id='login_password']]
 2017-08-10 13:04:54 INFO  LoginPage:40 - Clicked on sign in : Sign in
+2017-08-16 14:30:25 INFO  TC001_VerifyLoginWithInvalidCredentials:29 - *****starting test : verifyLoginWithInvalidCredentials
+2017-08-16 14:30:31 INFO  LoginPage:39 - Clicked on email : [[FirefoxDriver: firefox on ANY (ccc5efec-2477-4c6e-96dc-5ff042801314)] -> xpath: //input[@id='login_email']]
+2017-08-16 14:30:32 INFO  LoginPage:41 - Clicked on password : [[FirefoxDriver: firefox on ANY (ccc5efec-2477-4c6e-96dc-5ff042801314)] -> xpath: //input[@id='login_password']]
+2017-08-16 14:30:34 INFO  LoginPage:43 - Clicked on sign in : Sign in
+2017-08-16 14:30:34 INFO  LoginPage:47 - Error message is : Invalid Login. Try again.
+2017-08-16 14:30:34 INFO  TC001_VerifyLoginWithInvalidCredentials:34 - *****Finished test : verifyLoginWithInvalidCredentials
+2017-08-16 14:33:42 INFO  TestBase:43 - Loading properties file
+2017-08-16 14:33:42 INFO  TestBase:33 - selecting browser : firefox
+2017-08-16 14:34:03 INFO  TC001_VerifyLoginWithInvalidCredentials:29 - *****starting test : verifyLoginWithInvalidCredentials
+2017-08-16 14:34:07 INFO  LoginPage:39 - Clicked on email : [[FirefoxDriver: firefox on ANY (d027a688-ddfd-4a6a-8bc7-8e238c7ef3ce)] -> xpath: //input[@id='login_email']]
+2017-08-16 14:34:09 INFO  LoginPage:41 - Clicked on password : [[FirefoxDriver: firefox on ANY (d027a688-ddfd-4a6a-8bc7-8e238c7ef3ce)] -> xpath: //input[@id='login_password']]
+2017-08-16 14:34:09 INFO  LoginPage:43 - Clicked on sign in : Sign in
+2017-08-16 14:34:09 INFO  LoginPage:47 - Error message is : Invalid Login. Try again.
+2017-08-16 14:34:09 INFO  TC001_VerifyLoginWithInvalidCredentials:34 - *****Finished test : verifyLoginWithInvalidCredentials
+2017-08-16 14:55:33 INFO  TestBase:23 - *****starting test : verifyLoginWithValidCredentials
+2017-08-16 14:55:33 INFO  LoginPage:39 - Clicked on email : [[FirefoxDriver: firefox on ANY (6fe0cd7c-1a18-42e1-b6ca-9aaaab1292d2)] -> xpath: //input[@id='login_email']]
+2017-08-16 14:55:39 INFO  LoginPage:41 - Clicked on password : [[FirefoxDriver: firefox on ANY (6fe0cd7c-1a18-42e1-b6ca-9aaaab1292d2)] -> xpath: //input[@id='login_password']]
+2017-08-16 14:55:39 INFO  LoginPage:43 - Clicked on sign in : Sign in
+2017-08-16 14:56:41 INFO  TestBase:43 - Loading properties file
+2017-08-16 14:56:41 INFO  TestBase:33 - selecting browser : firefox
+2017-08-16 14:57:03 INFO  TC001_VerifyLoginWithInvalidCredentials:29 - *****starting test : verifyLoginWithInvalidCredentials
+2017-08-16 14:57:06 INFO  LoginPage:39 - Clicked on email : [[FirefoxDriver: firefox on ANY (c5fa5d6a-86f0-4c6f-94a1-e67d8a6be3c9)] -> xpath: //input[@id='login_email']]
+2017-08-16 14:57:09 INFO  LoginPage:41 - Clicked on password : [[FirefoxDriver: firefox on ANY (c5fa5d6a-86f0-4c6f-94a1-e67d8a6be3c9)] -> xpath: //input[@id='login_password']]
+2017-08-16 14:57:10 INFO  LoginPage:43 - Clicked on sign in : Sign in
+2017-08-16 14:57:10 INFO  LoginPage:47 - Error message is : Invalid Login. Try again.
+2017-08-16 14:57:11 INFO  TC001_VerifyLoginWithInvalidCredentials:34 - *****Finished test : verifyLoginWithInvalidCredentials
+2017-08-16 14:57:11 INFO  TestBase:23 - *****starting test : verifyLoginWithValidCredentials
+2017-08-16 14:57:11 INFO  LoginPage:39 - Clicked on email : [[FirefoxDriver: firefox on ANY (69bdff10-9e2f-43e6-98a0-e26d253ed4bf)] -> xpath: //input[@id='login_email']]
+2017-08-16 14:57:12 INFO  LoginPage:41 - Clicked on password : [[FirefoxDriver: firefox on ANY (69bdff10-9e2f-43e6-98a0-e26d253ed4bf)] -> xpath: //input[@id='login_password']]
+2017-08-16 14:57:12 INFO  LoginPage:43 - Clicked on sign in : Sign in
+2017-08-17 14:29:12 INFO  TestBase:43 - Loading properties file
+2017-08-17 14:29:13 INFO  TestBase:33 - selecting browser : firefox
+2017-08-17 14:29:40 INFO  TC001_VerifyLoginWithInvalidCredentials:29 - *****starting test : verifyLoginWithInvalidCredentials
+2017-08-17 14:29:50 INFO  LoginPage:39 - Clicked on email : [[FirefoxDriver: firefox on ANY (fc998d0a-1339-4b51-aa23-d4fca4c31239)] -> xpath: //input[@id='login_email']]
+2017-08-17 14:29:53 INFO  LoginPage:41 - Clicked on password : [[FirefoxDriver: firefox on ANY (fc998d0a-1339-4b51-aa23-d4fca4c31239)] -> xpath: //input[@id='login_password']]
+2017-08-17 14:29:55 INFO  LoginPage:43 - Clicked on sign in : Sign in
+2017-08-17 14:29:55 INFO  LoginPage:47 - Error message is : Invalid Login. Try again.
+2017-08-17 14:29:55 INFO  TC001_VerifyLoginWithInvalidCredentials:34 - *****Finished test : verifyLoginWithInvalidCredentials
+2017-08-17 14:29:56 INFO  TestBase:23 - *****starting test : verifyLoginWithValidCredentials
+2017-08-17 14:29:57 INFO  LoginPage:39 - Clicked on email : [[FirefoxDriver: firefox on ANY (2125e96d-09bb-4d4d-9ccb-40199ca2fb3e)] -> xpath: //input[@id='login_email']]
+2017-08-17 14:29:57 INFO  LoginPage:41 - Clicked on password : [[FirefoxDriver: firefox on ANY (2125e96d-09bb-4d4d-9ccb-40199ca2fb3e)] -> xpath: //input[@id='login_password']]
+2017-08-17 14:29:58 INFO  LoginPage:43 - Clicked on sign in : Sign in
+2017-08-17 14:47:45 INFO  TestBase:43 - Loading properties file
+2017-08-17 14:47:45 INFO  TestBase:33 - selecting browser : firefox
+2017-08-17 14:48:49 INFO  TC001_VerifyLoginWithInvalidCredentials:29 - *****starting test : verifyLoginWithInvalidCredentials
+2017-08-17 14:49:04 INFO  LoginPage:39 - Clicked on email : [[FirefoxDriver: firefox on ANY (fc09bf89-349a-44a8-98b8-71947b50d406)] -> xpath: //input[@id='login_email']]
+2017-08-17 14:49:07 INFO  LoginPage:41 - Clicked on password : [[FirefoxDriver: firefox on ANY (fc09bf89-349a-44a8-98b8-71947b50d406)] -> xpath: //input[@id='login_password']]
+2017-08-17 14:49:10 INFO  LoginPage:43 - Clicked on sign in : Sign in
+2017-08-17 14:49:10 INFO  LoginPage:47 - Error message is : Invalid Login. Try again.
+2017-08-17 14:49:10 INFO  TC001_VerifyLoginWithInvalidCredentials:34 - *****Finished test : verifyLoginWithInvalidCredentials
+2017-08-17 14:49:25 INFO  TestBase:23 - *****starting test : verifyLoginWithValidCredentials
+2017-08-17 14:49:25 INFO  LoginPage:39 - Clicked on email : [[FirefoxDriver: firefox on ANY (0aaf6e18-05a1-4ad5-9ed9-b2d4416c391c)] -> xpath: //input[@id='login_email']]
+2017-08-17 14:49:25 INFO  LoginPage:41 - Clicked on password : [[FirefoxDriver: firefox on ANY (0aaf6e18-05a1-4ad5-9ed9-b2d4416c391c)] -> xpath: //input[@id='login_password']]
+2017-08-17 14:49:27 INFO  LoginPage:43 - Clicked on sign in : Sign in
+2017-08-17 15:02:04 INFO  TestBase:43 - Loading properties file
+2017-08-17 15:02:04 INFO  TestBase:33 - selecting browser : firefox
+2017-08-17 15:02:20 INFO  TC001_VerifyLoginWithInvalidCredentials:29 - *****starting test : verifyLoginWithInvalidCredentials
+2017-08-17 15:02:24 INFO  LoginPage:39 - Clicked on email : [[FirefoxDriver: firefox on ANY (1925b8d9-07f1-4637-9197-c28a6901382e)] -> xpath: //input[@id='login_email']]
+2017-08-17 15:02:24 INFO  LoginPage:41 - Clicked on password : [[FirefoxDriver: firefox on ANY (1925b8d9-07f1-4637-9197-c28a6901382e)] -> xpath: //input[@id='login_password']]
+2017-08-17 15:02:26 INFO  LoginPage:43 - Clicked on sign in : Sign in
+2017-08-17 15:02:26 INFO  LoginPage:47 - Error message is : Invalid Login. Try again.
+2017-08-17 15:02:26 INFO  TC001_VerifyLoginWithInvalidCredentials:34 - *****Finished test : verifyLoginWithInvalidCredentials
+2017-08-17 15:02:26 INFO  TestBase:23 - *****starting test : verifyLoginWithValidCredentials
+2017-08-17 15:02:26 INFO  LoginPage:39 - Clicked on email : [[FirefoxDriver: firefox on ANY (9426ea76-ab87-4e8f-8a0e-3d29c1eb582e)] -> xpath: //input[@id='login_email']]
+2017-08-17 15:02:28 INFO  LoginPage:41 - Clicked on password : [[FirefoxDriver: firefox on ANY (9426ea76-ab87-4e8f-8a0e-3d29c1eb582e)] -> xpath: //input[@id='login_password']]
+2017-08-17 15:02:28 INFO  LoginPage:43 - Clicked on sign in : Sign in
+2017-08-17 15:13:16 INFO  TestBase:43 - Loading properties file
+2017-08-17 15:13:17 INFO  TestBase:33 - selecting browser : firefox
+2017-08-17 15:13:42 INFO  TC001_VerifyLoginWithInvalidCredentials:29 - *****starting test : verifyLoginWithInvalidCredentials
+2017-08-17 15:13:47 INFO  LoginPage:39 - Clicked on email : [[FirefoxDriver: firefox on ANY (4def7e7c-0ffe-432d-bf3f-592f63f0b44e)] -> xpath: //input[@id='login_email']]
+2017-08-17 15:13:49 INFO  LoginPage:41 - Clicked on password : [[FirefoxDriver: firefox on ANY (4def7e7c-0ffe-432d-bf3f-592f63f0b44e)] -> xpath: //input[@id='login_password']]
+2017-08-17 15:13:52 INFO  LoginPage:43 - Clicked on sign in : Sign in
+2017-08-17 15:13:52 INFO  LoginPage:47 - Error message is : Invalid Login. Try again.
+2017-08-17 15:13:52 INFO  TC001_VerifyLoginWithInvalidCredentials:34 - *****Finished test : verifyLoginWithInvalidCredentials
+2017-08-17 15:13:53 INFO  TestBase:23 - *****starting test : verifyLoginWithValidCredentials
+2017-08-17 15:13:53 INFO  LoginPage:39 - Clicked on email : [[FirefoxDriver: firefox on ANY (daa7ff41-3d6e-430b-aeaa-2961428eddbf)] -> xpath: //input[@id='login_email']]
+2017-08-17 15:13:53 INFO  LoginPage:41 - Clicked on password : [[FirefoxDriver: firefox on ANY (daa7ff41-3d6e-430b-aeaa-2961428eddbf)] -> xpath: //input[@id='login_password']]
+2017-08-17 15:13:54 INFO  LoginPage:43 - Clicked on sign in : Sign in
