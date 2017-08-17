@@ -5,7 +5,7 @@
 		<classes>
 			<class name="com.tjs.automation.uiAutomation.login.TC001_VerifyLoginWithInvalidCredentials"></class>
 			<class name="com.tjs.automation.uiAutomation.login.TC002_VerifyLoginWithValidCredentials"></class>
-			<class name="/uiAutomation/src/test/java/com/tjs/automation/uiAutomation/login/TC_003_DummyTest.java"></class>
+			<class name="com.tjs.automation.uiAutomation.login.TC_0003_DummyTest.java"></class>
 		</classes>
 	</test>
 </suite>
